@@ -1,4 +1,14 @@
-## Hi there 👋
+## Pedro Pérez López
+Programador.
+
+Soy un desarrollador apasionado por crear soluciones tecnológicas que impacten positivamente en la sociedad. Tengo experiencia en desarrollo web, aplicaciones móviles y arquitectura de software.
+
+## Habilidades
+- Lenguajes: JavaScript, Python, Java, C++
+- Desarrollo web: HTML, CSS, React, Angular
+- Bases de datos: MySQL, MongoDB
+- Herramientas: Git, Docker, Jenkins
+- Metodologías ágiles: Scrum, Kanban
 
 <!--
 **PedroPrez02/PedroPrez02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
