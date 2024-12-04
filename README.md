@@ -10,6 +10,9 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas que impacten 
 - Herramientas: Git, Docker, Jenkins
 - Metodologías ágiles: Scrum, Kanban
 
+## Contacto
+- LinkedIn: https://www.linkedin.com/in/pedro-perez-8b00a6340/
+
 <!--
 **PedroPrez02/PedroPrez02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
