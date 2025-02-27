@@ -1,7 +1,5 @@
 ## Pedro Pérez López
-Programador.
-
-Soy un desarrollador apasionado por crear soluciones tecnológicas que impacten positivamente en la sociedad. Tengo experiencia en desarrollo web, aplicaciones móviles y arquitectura de software.
+Estudiante 2ºASIR
 
 ## Habilidades
 - Lenguajes: JavaScript, HTML, CSS
