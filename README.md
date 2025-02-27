@@ -5,11 +5,9 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas que impacten 
 
 ## Habilidades
 - Lenguajes: JavaScript, Python, Java, C++
-- Desarrollo web: HTML, CSS, React, Angular
-- Bases de datos: MySQL, MongoDB
-- Herramientas: Git, Docker, Jenkins
-- Metodologías ágiles: Scrum, Kanban
-
+- Desarrollo web: HTML, CSS
+- Bases de datos: MySQL
+  
 ## Contacto
 - LinkedIn: https://www.linkedin.com/in/pedro-perez-8b00a6340/
 
