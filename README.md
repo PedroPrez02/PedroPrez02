@@ -4,8 +4,7 @@ Programador.
 Soy un desarrollador apasionado por crear soluciones tecnológicas que impacten positivamente en la sociedad. Tengo experiencia en desarrollo web, aplicaciones móviles y arquitectura de software.
 
 ## Habilidades
-- Lenguajes: JavaScript, Python, Java, C++
-- Desarrollo web: HTML, CSS
+- Lenguajes: JavaScript, HTML, CSS
 - Bases de datos: MySQL
   
 ## Contacto
